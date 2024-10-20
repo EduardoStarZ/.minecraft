@@ -1,0 +1,6 @@
+{
+    "parent": "item/hplus_giant_handheld_rod",
+    "textures": {
+        "layer0": "items/fishing_rod_uncast"
+    }
+}

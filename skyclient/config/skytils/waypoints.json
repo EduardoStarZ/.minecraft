@@ -1,0 +1,218 @@
+{
+    "categories": [
+        {
+            "name": "Jade",
+            "waypoints": [
+                {
+                    "name": "06",
+                    "x": 483,
+                    "y": 42,
+                    "z": 405,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "23",
+                    "x": 514,
+                    "y": 55,
+                    "z": 383,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "14",
+                    "x": 475,
+                    "y": 44,
+                    "z": 429,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "15",
+                    "x": 486,
+                    "y": 55,
+                    "z": 428,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "08",
+                    "x": 480,
+                    "y": 38,
+                    "z": 405,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "99 - End",
+                    "x": 510,
+                    "y": 52,
+                    "z": 393,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "00 - Start",
+                    "x": 503,
+                    "y": 48,
+                    "z": 400,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "Shoutout Tebey and trevanya",
+                    "x": 510,
+                    "y": 53,
+                    "z": 393,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "09",
+                    "x": 485,
+                    "y": 33,
+                    "z": 402,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "10",
+                    "x": 488,
+                    "y": 32,
+                    "z": 421,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "19",
+                    "x": 501,
+                    "y": 57,
+                    "z": 438,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "01",
+                    "x": 502,
+                    "y": 48,
+                    "z": 403,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "04",
+                    "x": 495,
+                    "y": 53,
+                    "z": 404,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "20",
+                    "x": 505,
+                    "y": 58,
+                    "z": 426,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "16",
+                    "x": 488,
+                    "y": 55,
+                    "z": 421,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "17",
+                    "x": 509,
+                    "y": 50,
+                    "z": 432,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "21",
+                    "x": 497,
+                    "y": 55,
+                    "z": 391,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "22",
+                    "x": 507,
+                    "y": 52,
+                    "z": 386,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "12",
+                    "x": 504,
+                    "y": 41,
+                    "z": 419,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "13",
+                    "x": 478,
+                    "y": 44,
+                    "z": 419,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "07",
+                    "x": 479,
+                    "y": 39,
+                    "z": 408,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "11",
+                    "x": 495,
+                    "y": 34,
+                    "z": 418,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "02",
+                    "x": 496,
+                    "y": 45,
+                    "z": 407,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "18",
+                    "x": 503,
+                    "y": 56,
+                    "z": 436,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "05",
+                    "x": 479,
+                    "y": 49,
+                    "z": 407,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                },
+                {
+                    "name": "03",
+                    "x": 490,
+                    "y": 45,
+                    "z": 392,
+                    "enabled": false,
+                    "addedAt": 1723485233926
+                }
+            ],
+            "island": "crystal_hollows"
+        }
+    ]
+}

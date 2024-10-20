@@ -1,0 +1,14 @@
+{
+  "profileWarps": [
+    {
+      "profile": "kiwi",
+      "warps": [
+        "DUNGEONHUB",
+        "PRIVATE",
+        "HUB",
+        "DEEPCAVERNS",
+        "THEEND"
+      ]
+    }
+  ]
+}

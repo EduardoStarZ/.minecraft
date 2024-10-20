@@ -1,0 +1,305 @@
+{
+  "bingo_tips": {
+    "Pet (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Gain Pet experience"
+      ],
+      "guide": [
+        "You will passively get progress",
+        "in this by just having a pet",
+        "equipped all time."
+      ]
+    },
+    "A Hard Day's Work (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Collect Jacobs Tickets from contests"
+      ],
+      "guide": [
+        "To get easy progress in this do",
+        "contests like Wheat, Potato, Carrot",
+        "or Mushroom as those are easy",
+        "Bronze or Silver Medals to get."
+      ]
+    },
+    "Agricultural Revolution (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Harvest crops"
+      ],
+      "guide": [
+        "You can get easy contribution for",
+        "this by breaking some Wheat in the Hub.",
+        "If you want faster contribution,",
+        "make a Sugar Cane farm in your Garden."
+      ]
+    },
+    "Tarantula Broodfather (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Kill T2 Spider Bosses"
+      ],
+      "guide": [
+        "Once you acquire a Void Sword and a decent",
+        "armor like Ender or Glacite this should be",
+        "fairly easy to do."
+      ]
+    },
+    "Enderman Slayer (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Kill Endermen"
+      ],
+      "guide": [
+        "You will need Combat 12 for this.",
+        "Getting a Void Sword and Ender Armor",
+        "will make progress in this easier."
+      ]
+    },
+    "Relic Researcher": {
+      "difficulty": "Medium",
+      "note": [
+        "Find 10 Relics"
+      ],
+      "guide": [
+        "You can find Relic Coordinates in Skytils",
+        "or the Wiki. You will need Ender Pearls",
+        "to reach some of them."
+      ]
+
+    },
+    "Farmer": {
+      "difficulty": "Easy",
+      "note": [
+        "Obtain Farming Level 5"
+      ],
+      "guide": [
+        "Farm some Wheat in the Hub."
+      ]
+    },
+    "Minion Machine": {
+      "difficulty": "Easy",
+      "note": [
+        "25 unique Minions"
+      ],
+      "guide": [
+        "Craft some easy minions while also getting",
+        "those that will help with this Bingo."
+      ]
+    },
+    "Clay Collector": {
+      "difficulty": "Hard",
+      "note": [
+        "150k Clay Collection"
+      ],
+      "guide": [
+        "Unlock Clay Minions by fishing in the Hub",
+        "in the Fishermans Pond. Then use the Clay Trade",
+        "to get enough Clay for minions.",
+        "Give them the best fuel and storage you",
+        "have access to. Using Compactors is strongly",
+        "recommended. Remember to collect in time."
+      ]
+    },
+    "Skill Average": {
+      "difficulty": "Hard",
+      "note": [
+        "Skill Average of 17"
+      ],
+      "guide": [
+        "To help with this, try to make bigger crafts",
+        "by hand for Carpentry levels.",
+        "Also do your daily experiments and make sure",
+        "to have a pet active at all times",
+        "(any pet works, even level 100)."
+      ]
+    },
+    "High Score!": {
+      "difficulty": "Medium",
+      "note": [
+        "270+ Score in Floor 1"
+      ],
+      "guide": [
+        "This requires Catacombs Level 1 and ",
+        "a completion of the previous floor.",
+        "You may need help from party finder",
+        "or friends for this."
+      ]
+    },
+    "Friend Of The Seas": {
+      "difficulty": "Medium",
+      "note": [
+        "Equip a Common+ Dolphin"
+      ],
+      "guide": [
+        "Fish with an Enchanted Chum Rod in the Rain",
+        "in the Park. Use the best bait you can."
+      ]
+    },
+    "Raw Chicken Collector": {
+      "difficulty": "Hard",
+      "note": [
+        "47.5k Raw Chicken Collection"
+      ],
+      "guide": [
+        "Unlock Chicken Minions by killing Chickens",
+        "in the Barn and craft as many minions as you can.",
+        "Give them the best fuel and storage you",
+        "have access to.",
+        "Remember to collect in time."
+      ]
+    },
+    "Love Is All Around": {
+      "difficulty": "Easy",
+      "note": [
+        "Obtain a Mediocre Ring of Love"
+      ],
+      "guide": [
+        "Follow the Romero Questline until you ",
+        "get this. You will only need",
+        "1 Yellow Rock, 15 poppies and 64 Emerald."
+      ]
+    },
+    "Dark Oak Wood Collector": {
+      "difficulty": "Hard",
+      "note": [
+        "165k Dark Oak Wood collection"
+      ],
+      "guide": [
+        "Optimal tool:",
+        "Golden Axe with Efficiency 5",
+        "Reforges: Double-Bit or Lush",
+        "Get Haste 3 from a splash to instamine wood",
+        "Forage in the Dark Thicket in the Park.",
+        "Place as many minions as you can,",
+        "give them a medium storage and the best fuel",
+        "you can. Collect them in time."
+      ]
+    },
+    "Strongman": {
+      "difficulty": "Medium",
+      "note": [
+        "180 strength"
+      ],
+      "guide": [
+        "Get yourself a splash, equip a Bingo Pet",
+        "and get the cake buff by eating the cakes",
+        "on owocato's, xMeru's or prtl's island.",
+        "If this doesn't finish it, get a Void Sword (200k) in the End",
+        "and hold it while some Ender Armor and/or Equipment."
+      ]
+    },
+    "Healthy": {
+      "difficulty": "Easy",
+      "note": [
+        "500 Health"
+      ],
+      "guide": [
+        "Wear armor enchanted with Growth 5 ",
+        "(Enchanting Level 5), preferably Ender Armor",
+        "while you're in The End or Mushroom Armor",
+        "during the night.",
+        "Applying Growth 5 costs 50 Levels each.",
+        "If you still struggle, reforge your",
+        "armor to Titanic."
+      ]
+    },
+    "Titanic Reforger": {
+      "difficulty": "Easy",
+      "note": [
+        "Apply the Titanic Reforge"
+      ],
+      "guide": [
+        "Talk to the Blacksmith in the Hub",
+        "and gamble Reforges on an armor piece",
+        "until you get the Titanic Reforge.",
+        "You might need to bring some money for this."
+      ]
+    },
+    "Bedazzled": {
+      "difficulty": "Medium",
+      "note": [
+        "12 unique Accessories"
+      ],
+      "guide": [
+        "List of more than 12 talismans:",
+        "Buy all 6 Talismans for 26k from the Adventurer in The Hub",
+        "Collection Talismans:",
+        "Farming Talisman, Vaccine Talisman,",
+        "Gravity Talisman, Talisman of Coins, Magnetic Talisman,",
+        "Wood Affinity Talisman, Speed Talisman, Potion Affinity Talisman",
+        "Other:",
+        "Archaeologists Compass, Mediocre Ring of Love, King Talisman,",
+        "Campfire Initiate Badge, Cat Talisman, Spider Talisman,",
+        "Don't forget to take the 4 Bonus accessory bag slots from",
+        "the Redstone Miner, he needs 1920 Redstone in total."
+      ]
+    },
+    "Collector": {
+      "difficulty": "Easy",
+      "note": [
+        "7 Collections to Tier 7"
+      ],
+      "guide": [
+        "You will get some progress for this",
+        "by working on other goals.",
+        "The easiest to go for are:",
+        "Mushroom, Oak Wood, Bone,",
+        "Sand, Wheat, Iron and Seeds."
+      ]
+    },
+    "Hard Worker": {
+      "difficulty": "Medium",
+      "note": [
+        "Craft a t11 Minion"
+      ],
+      "guide": [
+        "You can save all your Dark Oak Wood",
+        "to craft a t11 Minion from this (164k Wood)",
+        "or go for something quick like a Wheat Minion."
+      ]
+    },
+    "Experienced": {
+      "difficulty": "Easy",
+      "note": [
+        "Obtain a Grand Experience Bottle"
+      ],
+      "guide": [
+        "Mine Ender Nodes in the End,",
+        "fish one up while going for Dolphin,",
+        "or get some from the Experimentation Table."
+      ]
+    },
+    "Pair Up!": {
+      "difficulty": "Easy",
+      "note": [
+        "Find 3 Pairs in the Experimentation Table"
+      ],
+      "guide": [
+        "Get Enchanting Level 10 and play",
+        "the first tier in the Experimentation Table."
+      ]
+    },
+    "Quick Reel": {
+      "difficulty": "Medium",
+      "note": [
+        "Summon 3 Sea Creatures in 75s"
+      ],
+      "guide": [
+        "Use an Enchanted Chum Rod in the Rain",
+        "in the Park and use the best bait you can."
+      ]
+    },
+    "Strange Effects": {
+      "difficulty": "Easy",
+      "note": [
+        "Kill a Runic Mob"
+      ],
+      "guide": [
+        "Look for a mob with a purple name",
+        "and kill it."
+      ]
+    }
+  }
+}

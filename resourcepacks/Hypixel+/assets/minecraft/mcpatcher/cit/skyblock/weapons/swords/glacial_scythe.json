@@ -1,0 +1,7 @@
+{
+    "parent": "item/hplus_handheld",
+    "textures": {
+        "layer0": "./frozen_scythe",
+        "layer1": "./glacial_scythe_blade"
+    }
+}

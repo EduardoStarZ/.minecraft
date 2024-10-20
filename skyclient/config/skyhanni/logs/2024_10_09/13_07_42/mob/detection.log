@@ -1,0 +1,624 @@
+13:31:54 `4ptxcv29z7`185 missed {
+ is already Found: false).
+ Position: LorenzVec{x=53.0625, y=141.5, z=19.5}
+ DistanceC: 8.348823124404841
+Relative Position: LorenzVec{x=-1.4227814355147785, y=6.5, z=-8.348823124404841}
+ }
+13:31:54 `7bzwxx0f5t`128 missed {
+ is already Found: false).
+ Position: LorenzVec{x=42.5, y=134.5, z=22.5}
+ DistanceC: 11.985281435514779
+Relative Position: LorenzVec{x=-11.985281435514779, y=-0.5, z=-5.348823124404841}
+ }
+13:32:23 `13l7ib2tf4`112 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-6.5, y=145.0, z=-18.5}
+ DistanceC: 18.296253904216556
+Relative Position: LorenzVec{x=-18.296253904216556, y=0.0, z=0.8792327652756313}
+ }
+13:33:55 `889gl7gvel`12898 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-25.5, y=71.0, z=-13.5}
+ DistanceC: 23.116928163852293
+Relative Position: LorenzVec{x=-23.116928163852293, y=-2.0, z=16.36644428939972}
+ }
+13:40:54 `rf7lmm494e`23 missed {
+ is already Found: false).
+ Position: LorenzVec{x=269.5, y=48.0, z=-480.5}
+ DistanceC: 2.9385724956400736
+Relative Position: LorenzVec{x=1.1092088799289854, y=0.0, z=2.9385724956400736}
+ }
+13:44:16 `jeqe7z54ua`24402 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-21.5, y=71.0, z=-14.5}
+ DistanceC: 19.031379905097303
+Relative Position: LorenzVec{x=-19.031379905097303, y=-2.5, z=16.632835337237573}
+ }
+13:44:17 `0894uv808h`24389 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-23.5, y=71.0, z=-14.5}
+ DistanceC: 21.031379905097303
+Relative Position: LorenzVec{x=-21.031379905097303, y=-2.5, z=16.632835337237573}
+ }
+13:44:17 `ii2eul9jd5`24388 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-25.5, y=71.0, z=-13.5}
+ DistanceC: 23.031379905097303
+Relative Position: LorenzVec{x=-23.031379905097303, y=-2.5, z=17.632835337237573}
+ }
+14:00:41 `709145uqy0`14629 missed {
+ is already Found: false).
+ Position: LorenzVec{x=6.5, y=71.0, z=-5.5}
+ DistanceC: 23.0
+Relative Position: LorenzVec{x=12.0, y=0.0, z=-23.0}
+ }
+14:10:40 `46h87bp9on`112 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-6.5, y=145.0, z=-18.5}
+ DistanceC: 19.89193883235184
+Relative Position: LorenzVec{x=0.6478504367823135, y=-4.5, z=19.89193883235184}
+ }
+14:11:46 `d5jm27g84g`115 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-15.25, y=136.43125, z=217.25}
+ DistanceC: 15.759966560290195
+Relative Position: LorenzVec{x=-15.759966560290195, y=11.431250000000006, z=9.291707129490959}
+ }
+14:11:46 `3jv5730xx1`117 missed {
+ is already Found: false).
+ Position: LorenzVec{x=15.5, y=128.0, z=206.5}
+ DistanceC: 14.990033439709805
+Relative Position: LorenzVec{x=14.990033439709805, y=3.0, z=-1.458292870509041}
+ }
+14:11:46 `46jh82z760`175 missed {
+ is already Found: false).
+ Position: LorenzVec{x=23.5, y=128.0, z=207.5}
+ DistanceC: 22.990033439709805
+Relative Position: LorenzVec{x=22.990033439709805, y=3.0, z=-0.458292870509041}
+ }
+14:11:52 `y06o50c999`187 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-16.5, y=121.0, z=232.5}
+ DistanceC: 17.298486529316495
+Relative Position: LorenzVec{x=-17.298486529316495, y=0.0, z=16.85312893459104}
+ }
+14:11:55 `69e564zf91`133 missed {
+ is already Found: false).
+ Position: LorenzVec{x=2.5, y=120.775, z=237.5}
+ DistanceC: 21.85312893459104
+Relative Position: LorenzVec{x=1.701513470683505, y=-0.22499999999999432, z=21.85312893459104}
+ }
+14:12:05 `yu5m3a0vzd`186 missed {
+ is already Found: false).
+ Position: LorenzVec{x=10.0, y=121.0, z=245.0}
+ DistanceC: 12.300000011920929
+Relative Position: LorenzVec{x=-12.300000011920929, y=0.0, z=5.300000011920929}
+ }
+14:20:27 `7eqcue8m3v`115 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-15.25, y=136.43125, z=217.25}
+ DistanceC: 17.131529136677337
+Relative Position: LorenzVec{x=-17.131529136677337, y=15.431250000000006, z=-0.5534410913942338}
+ }
+14:20:27 `zsicg238kh`117 missed {
+ is already Found: false).
+ Position: LorenzVec{x=15.5, y=128.0, z=206.5}
+ DistanceC: 13.618470863322663
+Relative Position: LorenzVec{x=13.618470863322663, y=7.0, z=-11.303441091394234}
+ }
+14:20:27 `xgeuz27hf2`175 missed {
+ is already Found: false).
+ Position: LorenzVec{x=23.5, y=128.0, z=207.5}
+ DistanceC: 21.618470863322663
+Relative Position: LorenzVec{x=21.618470863322663, y=7.0, z=-10.303441091394234}
+ }
+14:20:28 `ve3x9n0ki6`187 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-16.5, y=121.0, z=232.5}
+ DistanceC: 18.381529136677337
+Relative Position: LorenzVec{x=-18.381529136677337, y=0.0, z=14.696558908605766}
+ }
+14:20:28 `1u69m6vl2l`133 missed {
+ is already Found: false).
+ Position: LorenzVec{x=2.5, y=120.775, z=237.5}
+ DistanceC: 19.696558908605766
+Relative Position: LorenzVec{x=0.6184708633226628, y=-0.22499999999999432, z=19.696558908605766}
+ }
+14:21:27 `lp92x9k7j7`186 missed {
+ is already Found: false).
+ Position: LorenzVec{x=10.0, y=121.0, z=245.0}
+ DistanceC: 18.521474343417083
+Relative Position: LorenzVec{x=-17.315058586499447, y=3.5, z=-18.521474343417083}
+ }
+14:23:48 `g5b7c5kc1k`163 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-22.5, y=151.0, z=-49.5}
+ DistanceC: 1.7856837962770271
+Relative Position: LorenzVec{x=-0.7251688064737287, y=0.0, z=-1.7856837962770271}
+ }
+14:24:47 `zsicg238kh`117 missed {
+ is already Found: false).
+ Position: LorenzVec{x=15.5, y=128.0, z=206.5}
+ DistanceC: 1.4451684075521314
+Relative Position: LorenzVec{x=-1.0814702822276914, y=0.0, z=1.4451684075521314}
+ }
+14:24:47 `xgeuz27hf2`175 missed {
+ is already Found: false).
+ Position: LorenzVec{x=23.5, y=128.0, z=207.5}
+ DistanceC: 6.918529717772309
+Relative Position: LorenzVec{x=6.918529717772309, y=0.0, z=2.4451684075521314}
+ }
+14:29:24 `7eqcue8m3v`115 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-15.25, y=136.43125, z=217.25}
+ DistanceC: 21.545359910740615
+Relative Position: LorenzVec{x=-21.545359910740615, y=15.431250000000006, z=-16.674304781351054}
+ }
+14:29:26 `ve3x9n0ki6`187 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-16.5, y=121.0, z=232.5}
+ DistanceC: 22.795359910740615
+Relative Position: LorenzVec{x=-22.795359910740615, y=0.0, z=-1.4243047813510543}
+ }
+14:29:26 `1u69m6vl2l`133 missed {
+ is already Found: false).
+ Position: LorenzVec{x=2.5, y=120.775, z=237.5}
+ DistanceC: 7.0
+Relative Position: LorenzVec{x=-7.0, y=-0.22499999999999432, z=-4.0}
+ }
+14:29:32 `lp92x9k7j7`186 missed {
+ is already Found: false).
+ Position: LorenzVec{x=10.0, y=121.0, z=245.0}
+ DistanceC: 23.82858489010249
+Relative Position: LorenzVec{x=-19.876466219216812, y=4.0, z=-23.82858489010249}
+ }
+14:34:31 `7eqcue8m3v`115 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-15.25, y=136.43125, z=217.25}
+ DistanceC: 14.548321744694594
+Relative Position: LorenzVec{x=-14.548321744694594, y=14.931250000000006, z=1.9585436141366017}
+ }
+14:34:31 `1u69m6vl2l`133 missed {
+ is already Found: false).
+ Position: LorenzVec{x=2.5, y=120.775, z=237.5}
+ DistanceC: 22.2085436141366
+Relative Position: LorenzVec{x=3.2016782553054055, y=-0.7249999999999943, z=22.2085436141366}
+ }
+14:34:31 `ve3x9n0ki6`187 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-16.5, y=121.0, z=232.5}
+ DistanceC: 17.2085436141366
+Relative Position: LorenzVec{x=-15.798321744694594, y=-0.5, z=17.2085436141366}
+ }
+14:34:31 `zsicg238kh`117 missed {
+ is already Found: false).
+ Position: LorenzVec{x=15.5, y=128.0, z=206.5}
+ DistanceC: 16.201678255305406
+Relative Position: LorenzVec{x=16.201678255305406, y=6.5, z=-8.791456385863398}
+ }
+14:39:25 `809yofzpz1`115 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-15.25, y=136.43125, z=217.25}
+ DistanceC: 20.94999998807907
+Relative Position: LorenzVec{x=-20.94999998807907, y=9.431250000000006, z=13.69501510533425}
+ }
+14:39:25 `z44t0qoyi7`117 missed {
+ is already Found: false).
+ Position: LorenzVec{x=15.5, y=128.0, z=206.5}
+ DistanceC: 9.800000011920929
+Relative Position: LorenzVec{x=9.800000011920929, y=1.0, z=2.9450151053342495}
+ }
+14:39:25 `5txtm52ej4`175 missed {
+ is already Found: false).
+ Position: LorenzVec{x=23.5, y=128.0, z=207.5}
+ DistanceC: 17.80000001192093
+Relative Position: LorenzVec{x=17.80000001192093, y=1.0, z=3.9450151053342495}
+ }
+14:45:16 `yx84jdr8xr`186 missed {
+ is already Found: false).
+ Position: LorenzVec{x=10.0, y=121.0, z=245.0}
+ DistanceC: 8.913890889130366
+Relative Position: LorenzVec{x=8.913890889130366, y=-7.157525004739057, z=8.576329236221596}
+ }
+14:45:17 `cq2r2g158x`133 missed {
+ is already Found: false).
+ Position: LorenzVec{x=2.5, y=120.775, z=237.5}
+ DistanceC: 7.981783773652353
+Relative Position: LorenzVec{x=2.2857359182101513, y=-6.320441480937447, z=7.981783773652353}
+ }
+14:45:19 `440o99o774`187 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-16.5, y=121.0, z=232.5}
+ DistanceC: 16.632454471038518
+Relative Position: LorenzVec{x=-16.632454471038518, y=0.0, z=9.105050628764872}
+ }
+14:45:20 `809yofzpz1`115 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-15.25, y=136.43125, z=217.25}
+ DistanceC: 14.82257455841931
+Relative Position: LorenzVec{x=-14.82257455841931, y=10.754317786869876, z=1.5994487865138751}
+ }
+14:45:22 `z44t0qoyi7`117 missed {
+ is already Found: false).
+ Position: LorenzVec{x=15.5, y=128.0, z=206.5}
+ DistanceC: 16.54494881298225
+Relative Position: LorenzVec{x=16.54494881298225, y=4.5, z=-4.747524546457242}
+ }
+14:46:03 `5txtm52ej4`175 missed {
+ is already Found: false).
+ Position: LorenzVec{x=23.5, y=128.0, z=207.5}
+ DistanceC: 23.88555792664544
+Relative Position: LorenzVec{x=23.88555792664544, y=0.8650299181439323, z=-1.759193605187562}
+ }
+14:46:14 `yx84jdr8xr`186 missed {
+ is already Found: false).
+ Position: LorenzVec{x=10.0, y=121.0, z=245.0}
+ DistanceC: 21.304214938781428
+Relative Position: LorenzVec{x=12.356744316745246, y=0.0, z=21.304214938781428}
+ }
+14:47:18 `Zombie`93842 missed {
+ is already Found: false).
+ Position: LorenzVec{x=508.53125, y=47.0, z=541.8125}
+ DistanceC: 20.31119623297684
+Relative Position: LorenzVec{x=-20.31119623297684, y=-62.0, z=18.83950300898323}
+ }
+14:48:43 `isj791rw3f`42 missed {
+ is already Found: false).
+ Position: LorenzVec{x=530.5, y=106.0, z=556.5}
+ DistanceC: 22.307680904862877
+Relative Position: LorenzVec{x=-22.307680904862877, y=-10.0, z=4.731739865618692}
+ }
+14:51:16 `28ac341y25`43 missed {
+ is already Found: false).
+ Position: LorenzVec{x=495.5, y=106.0, z=556.5}
+ DistanceC: 22.669193646234476
+Relative Position: LorenzVec{x=-0.5956152723655919, y=-3.0, z=22.669193646234476}
+ }
+14:59:30 `s8kdul313o`49 missed {
+ is already Found: false).
+ Position: LorenzVec{x=685.5, y=87.0, z=297.5}
+ DistanceC: 18.042883942144385
+Relative Position: LorenzVec{x=-17.450157843669672, y=16.0, z=18.042883942144385}
+ }
+14:59:56 `xe0svc8oyc`51 missed {
+ is already Found: false).
+ Position: LorenzVec{x=715.5, y=87.0, z=333.5}
+ DistanceC: 11.93253026540873
+Relative Position: LorenzVec{x=11.880361318670339, y=20.0, z=11.93253026540873}
+ }
+15:00:15 `60xoxhsa9v`50 missed {
+ is already Found: false).
+ Position: LorenzVec{x=751.5, y=87.0, z=303.5}
+ DistanceC: 18.93224165920674
+Relative Position: LorenzVec{x=18.93224165920674, y=15.01698264870825, z=-2.2320323020927617}
+ }
+15:00:22 `xe0svc8oyc`51 missed {
+ is already Found: false).
+ Position: LorenzVec{x=715.5, y=87.0, z=333.5}
+ DistanceC: 14.79575989819972
+Relative Position: LorenzVec{x=4.776386729211595, y=20.0, z=14.79575989819972}
+ }
+15:00:29 `60xoxhsa9v`50 missed {
+ is already Found: false).
+ Position: LorenzVec{x=751.5, y=87.0, z=303.5}
+ DistanceC: 23.097400240707657
+Relative Position: LorenzVec{x=23.097400240707657, y=18.0, z=-5.475230117315107}
+ }
+15:01:42 `94y3g71139`44 missed {
+ is already Found: false).
+ Position: LorenzVec{x=475.5, y=106.0, z=513.5}
+ DistanceC: 14.097742982088562
+Relative Position: LorenzVec{x=-11.280146661174967, y=-3.0, z=-14.097742982088562}
+ }
+15:01:52 `28ac341y25`43 missed {
+ is already Found: false).
+ Position: LorenzVec{x=495.5, y=106.0, z=556.5}
+ DistanceC: 23.804986563463217
+Relative Position: LorenzVec{x=-23.804986563463217, y=0.0, z=7.079429369132754}
+ }
+15:02:00 `isj791rw3f`42 missed {
+ is already Found: false).
+ Position: LorenzVec{x=530.5, y=106.0, z=556.5}
+ DistanceC: 20.194203453708155
+Relative Position: LorenzVec{x=20.194203453708155, y=0.0, z=5.231359076650392}
+ }
+15:03:41 `xe0svc8oyc`51 missed {
+ is already Found: false).
+ Position: LorenzVec{x=715.5, y=87.0, z=333.5}
+ DistanceC: 15.121942882679207
+Relative Position: LorenzVec{x=-7.739086998702646, y=18.979999989271164, z=15.121942882679207}
+ }
+15:03:55 `60xoxhsa9v`50 missed {
+ is already Found: false).
+ Position: LorenzVec{x=751.5, y=87.0, z=303.5}
+ DistanceC: 19.19999998807907
+Relative Position: LorenzVec{x=19.19999998807907, y=21.0, z=-1.199999988079071}
+ }
+15:11:03 `Slime`3270 missed {
+ is already Found: false).
+ Position: LorenzVec{x=462.5, y=102.40625, z=444.8958333333333}
+ DistanceC: 18.319150221239852
+Relative Position: LorenzVec{x=18.319150221239852, y=-6.59375, z=-13.471781729685517}
+ }
+15:11:46 `3lqr47b296`50 missed {
+ is already Found: false).
+ Position: LorenzVec{x=241.5, y=114.0, z=528.5}
+ DistanceC: 21.750241918748202
+Relative Position: LorenzVec{x=-18.800000011920872, y=16.246800019478798, z=-21.750241918748202}
+ }
+15:11:59 `yeday20c77`51 missed {
+ is already Found: false).
+ Position: LorenzVec{x=235.5, y=114.0, z=528.5}
+ DistanceC: 20.236658044052206
+Relative Position: LorenzVec{x=-20.236658044052206, y=6.0, z=-16.40863795306666}
+ }
+15:14:30 `d727a2zn9n`44 missed {
+ is already Found: false).
+ Position: LorenzVec{x=475.5, y=106.0, z=513.5}
+ DistanceC: 18.815411601682683
+Relative Position: LorenzVec{x=-15.448416534081389, y=-3.0, z=18.815411601682683}
+ }
+15:22:09 `Zombie`213147 missed {
+ is already Found: false).
+ Position: LorenzVec{x=547.9340277777777, y=65.22222222222221, z=490.3078703703704}
+ DistanceC: 12.906589461094427
+Relative Position: LorenzVec{x=-12.906589461094427, y=2.3006222237480927, z=10.505161418218165}
+ }
+15:23:53 `Bat`218491 missed {
+ is already Found: false).
+ Position: LorenzVec{x=471.6226851851852, y=56.81018518518519, z=370.85300925925924}
+ DistanceC: 15.203369160664124
+Relative Position: LorenzVec{x=8.016312973703975, y=-2.1898148148148096, z=15.203369160664124}
+ }
+15:23:56 `Bat`218481 missed {
+ is already Found: false).
+ Position: LorenzVec{x=479.34375, y=53.0625, z=365.53125}
+ DistanceC: 15.058352902490583
+Relative Position: LorenzVec{x=15.058352902490583, y=-5.9375, z=9.927879959085374}
+ }
+15:24:01 `Bat`218487 missed {
+ is already Found: false).
+ Position: LorenzVec{x=471.85416666666663, y=62.8125, z=368.46875}
+ DistanceC: 10.862607113745582
+Relative Position: LorenzVec{x=5.30701426524962, y=10.310785337740924, z=10.862607113745582}
+ }
+15:24:01 `Bat`219137 missed {
+ is already Found: false).
+ Position: LorenzVec{x=489.0, y=60.25, z=362.625}
+ DistanceC: 16.30000001192093
+Relative Position: LorenzVec{x=16.30000001192093, y=8.25, z=8.561938298097004}
+ }
+15:24:17 `Bat`217505 missed {
+ is already Found: false).
+ Position: LorenzVec{x=478.84375, y=66.9375, z=346.125}
+ DistanceC: 17.72454952841582
+Relative Position: LorenzVec{x=5.20589711430199, y=7.9375, z=17.72454952841582}
+ }
+15:24:48 `Bat`221830 missed {
+ is already Found: false).
+ Position: LorenzVec{x=486.03125, y=56.5, z=375.90625}
+ DistanceC: 10.281580932211682
+Relative Position: LorenzVec{x=9.364484287029654, y=3.5, z=10.281580932211682}
+ }
+15:24:48 `Bat`219141 missed {
+ is already Found: false).
+ Position: LorenzVec{x=485.0729166666667, y=71.44791666666667, z=378.5833333333333}
+ DistanceC: 12.929098800839768
+Relative Position: LorenzVec{x=9.631546548531219, y=18.44791666666667, z=12.929098800839768}
+ }
+15:24:53 `Bat`223280 missed {
+ is already Found: false).
+ Position: LorenzVec{x=500.4375, y=54.78125, z=364.84375}
+ DistanceC: 6.9427747153631
+Relative Position: LorenzVec{x=-0.4389456264842124, y=2.7759211865392714, z=-6.9427747153631}
+ }
+15:24:55 `Bat`223613 missed {
+ is already Found: false).
+ Position: LorenzVec{x=506.71875, y=55.875, z=364.53125}
+ DistanceC: 6.875449881312534
+Relative Position: LorenzVec{x=-6.875449881312534, y=2.108632006042477, z=-0.910599792388382}
+ }
+15:24:56 `Bat`218489 missed {
+ is already Found: false).
+ Position: LorenzVec{x=502.73958333333337, y=56.53125, z=365.45833333333337}
+ DistanceC: 17.807878591351482
+Relative Position: LorenzVec{x=-17.807878591351482, y=0.6096500015258783, z=3.9899574183912705}
+ }
+15:24:56 `Bat`224123 missed {
+ is already Found: false).
+ Position: LorenzVec{x=503.53125, y=57.78125, z=374.3125}
+ DistanceC: 17.16874998807907
+Relative Position: LorenzVec{x=-17.16874998807907, y=2.78125, z=12.988081851096638}
+ }
+15:24:56 `Bat`224133 missed {
+ is already Found: false).
+ Position: LorenzVec{x=506.6979166666667, y=54.104166666666664, z=358.90625}
+ DistanceC: 13.611427476008714
+Relative Position: LorenzVec{x=-13.611427476008714, y=-0.8958333333333357, z=-2.3857339685244483}
+ }
+15:24:56 `Bat`223611 missed {
+ is already Found: false).
+ Position: LorenzVec{x=515.4375, y=60.6875, z=373.0625}
+ DistanceC: 11.820059981497423
+Relative Position: LorenzVec{x=-4.267840887864963, y=5.6875, z=11.820059981497423}
+ }
+15:24:56 `Bat`223276 missed {
+ is already Found: false).
+ Position: LorenzVec{x=498.22569444444446, y=55.77083333333333, z=376.9826388888889}
+ DistanceC: 18.498828212352123
+Relative Position: LorenzVec{x=-18.498828212352123, y=1.0044653393758054, z=15.924618045015222}
+ }
+15:24:57 `Bat`223605 missed {
+ is already Found: false).
+ Position: LorenzVec{x=501.90625, y=56.90625, z=374.625}
+ DistanceC: 12.953537235030922
+Relative Position: LorenzVec{x=-10.810375259300258, y=3.90625, z=12.953537235030922}
+ }
+15:24:57 `Bat`223603 missed {
+ is already Found: false).
+ Position: LorenzVec{x=511.1770833333333, y=56.979166666666664, z=360.6770833333333}
+ DistanceC: 1.1718731742367368
+Relative Position: LorenzVec{x=-0.5222371951909395, y=3.9791666666666643, z=-1.1718731742367368}
+ }
+15:24:57 `Bat`219135 missed {
+ is already Found: false).
+ Position: LorenzVec{x=529.9166666666667, y=70.09375, z=378.61458333333337}
+ DistanceC: 20.317864211541348
+Relative Position: LorenzVec{x=20.317864211541348, y=17.09375, z=16.946230061006588}
+ }
+15:24:57 `Bat`224127 missed {
+ is already Found: false).
+ Position: LorenzVec{x=514.3125, y=58.6875, z=358.65625}
+ DistanceC: 5.872149339913619
+Relative Position: LorenzVec{x=5.872149339913619, y=4.667499989271164, z=-2.5075962321149063}
+ }
+15:24:57 `Bat`223282 missed {
+ is already Found: false).
+ Position: LorenzVec{x=502.15625, y=54.75, z=362.71875}
+ DistanceC: 5.631331672674776
+Relative Position: LorenzVec{x=-5.631331672674776, y=-0.19120003917217332, z=1.8458241515400573}
+ }
+15:24:58 `Bat`224125 missed {
+ is already Found: false).
+ Position: LorenzVec{x=516.3125, y=56.270833333333336, z=356.5104166666667}
+ DistanceC: 12.167716081172898
+Relative Position: LorenzVec{x=12.167716081172898, y=-2.513469976839133, z=-2.5511820962611864}
+ }
+15:24:58 `Bat`223607 missed {
+ is already Found: false).
+ Position: LorenzVec{x=517.1493055555555, y=57.65277777777778, z=369.1354166666667}
+ DistanceC: 18.77510399642989
+Relative Position: LorenzVec{x=18.77510399642989, y=0.7623303245178121, z=15.79981399357257}
+ }
+15:24:59 `Bat`223272 missed {
+ is already Found: false).
+ Position: LorenzVec{x=500.6875, y=62.78125, z=377.84375}
+ DistanceC: 14.334590703248978
+Relative Position: LorenzVec{x=-0.8368172198534012, y=-0.21875, z=14.334590703248978}
+ }
+15:25:00 `Bat`223609 missed {
+ is already Found: false).
+ Position: LorenzVec{x=516.40625, y=55.625, z=383.5}
+ DistanceC: 19.658186597622034
+Relative Position: LorenzVec{x=14.2494207178068, y=-5.265447453259966, z=19.658186597622034}
+ }
+15:25:03 `Bat`219737 missed {
+ is already Found: false).
+ Position: LorenzVec{x=503.95486111111114, y=56.833333333333336, z=397.45138888888886}
+ DistanceC: 15.48883970918979
+Relative Position: LorenzVec{x=13.247192730345375, y=3.8333333333333357, z=15.48883970918979}
+ }
+15:25:06 `Bat`221834 missed {
+ is already Found: false).
+ Position: LorenzVec{x=500.34375, y=55.8125, z=387.15625}
+ DistanceC: 15.774455000571493
+Relative Position: LorenzVec{x=15.774455000571493, y=2.8125, z=8.369855689746828}
+ }
+15:25:11 `Bat`223278 missed {
+ is already Found: false).
+ Position: LorenzVec{x=517.09375, y=71.16666666666667, z=362.75}
+ DistanceC: 19.218756591348097
+Relative Position: LorenzVec{x=14.484741470623135, y=18.16666666666667, z=-19.218756591348097}
+ }
+15:25:13 `Bat`217515 missed {
+ is already Found: false).
+ Position: LorenzVec{x=505.39583333333337, y=70.01736111111111, z=389.9236111111111}
+ DistanceC: 9.06521340573488
+Relative Position: LorenzVec{x=4.5018710697699476, y=17.017361111111114, z=9.06521340573488}
+ }
+15:26:58 `fd5f6g1n11`44 missed {
+ is already Found: false).
+ Position: LorenzVec{x=475.5, y=106.0, z=513.5}
+ DistanceC: 15.425136057581312
+Relative Position: LorenzVec{x=-12.262633446107145, y=-3.0, z=-15.425136057581312}
+ }
+15:27:10 `r8uxya8v2h`43 missed {
+ is already Found: false).
+ Position: LorenzVec{x=495.5, y=106.0, z=556.5}
+ DistanceC: 17.24127338179369
+Relative Position: LorenzVec{x=-17.24127338179369, y=0.0, z=15.656305198944438}
+ }
+15:27:13 `t25qax0nf8`42 missed {
+ is already Found: false).
+ Position: LorenzVec{x=530.5, y=106.0, z=556.5}
+ DistanceC: 15.201454474629713
+Relative Position: LorenzVec{x=15.201454474629713, y=0.0, z=4.991685946449934}
+ }
+15:28:11 `Zombie`589245 missed {
+ is already Found: false).
+ Position: LorenzVec{x=513.5, y=106.0, z=526.5}
+ DistanceC: 7.428541963193084
+Relative Position: LorenzVec{x=-7.428541963193084, y=-3.0, z=4.070408949428042}
+ }
+15:30:42 `Zombie`598126 missed {
+ is already Found: false).
+ Position: LorenzVec{x=468.5, y=84.0, z=359.0}
+ DistanceC: 10.699999988079071
+Relative Position: LorenzVec{x=2.9408114922346726, y=-5.0, z=-10.699999988079071}
+ }
+15:30:42 `Zombie`598128 missed {
+ is already Found: false).
+ Position: LorenzVec{x=458.5, y=84.0, z=357.0}
+ DistanceC: 12.699999988079071
+Relative Position: LorenzVec{x=-7.059188507765327, y=-5.0, z=-12.699999988079071}
+ }
+15:31:41 `Zombie`598689 missed {
+ is already Found: false).
+ Position: LorenzVec{x=447.2604166666667, y=89.0, z=361.3541666666667}
+ DistanceC: 18.99565146293247
+Relative Position: LorenzVec{x=-18.99565146293247, y=-0.0625, z=-7.6259771820127185}
+ }
+15:32:23 `gyto3cd2a3`163 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-22.5, y=151.0, z=-49.5}
+ DistanceC: 23.0
+Relative Position: LorenzVec{x=-23.0, y=2.0, z=19.0}
+ }
+15:32:23 `44d62t4s8j`164 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-22.5, y=151.0, z=-79.5}
+ DistanceC: 23.0
+Relative Position: LorenzVec{x=-23.0, y=2.0, z=-11.0}
+ }
+15:32:23 `8cx966c33d`166 missed {
+ is already Found: false).
+ Position: LorenzVec{x=23.5, y=151.0, z=-87.5}
+ DistanceC: 23.0
+Relative Position: LorenzVec{x=23.0, y=2.0, z=-19.0}
+ }
+15:32:23 `h52f170gyz`167 missed {
+ is already Found: false).
+ Position: LorenzVec{x=23.5, y=151.0, z=-57.5}
+ DistanceC: 23.0
+Relative Position: LorenzVec{x=23.0, y=2.0, z=11.0}
+ }
+15:34:16 `wf7c084d0j`15744 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-21.5, y=71.0, z=-14.5}
+ DistanceC: 20.405634802897314
+Relative Position: LorenzVec{x=-20.405634802897314, y=0.0, z=-15.662046644676426}
+ }
+15:34:16 `asv02k380g`15746 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-23.5, y=71.0, z=-14.5}
+ DistanceC: 22.405634802897314
+Relative Position: LorenzVec{x=-22.405634802897314, y=0.0, z=-15.662046644676426}
+ }
+15:35:39 `asv02k380g`15746 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-23.5, y=71.0, z=-14.5}
+ DistanceC: 18.109877848319123
+Relative Position: LorenzVec{x=-18.109877848319123, y=0.0, z=-17.673562098358403}
+ }
+15:35:39 `8to916xu67`15755 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-25.5, y=71.0, z=-13.5}
+ DistanceC: 20.109877848319123
+Relative Position: LorenzVec{x=-20.109877848319123, y=0.0, z=-16.673562098358403}
+ }
+15:35:39 `8b10ijwaq8`15745 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-27.5, y=71.0, z=-13.5}
+ DistanceC: 22.109877848319123
+Relative Position: LorenzVec{x=-22.109877848319123, y=0.0, z=-16.673562098358403}
+ }
